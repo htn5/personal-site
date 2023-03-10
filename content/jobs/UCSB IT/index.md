@@ -1,7 +1,7 @@
 ---
-date: '1'
+date: '4'
 title: 'IT Assistant'
-company: 'UC Santa Barbara'
+company: 'UCSB IT Department'
 location: 'Santa Barbara, CA'
 range: 'September 2021 - Present'
 url: 'https://hasc.hfa.ucsb.edu/'

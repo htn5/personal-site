@@ -1,7 +1,7 @@
 ---
-date: '3'
+date: '2'
 title: 'Intern'
-company: 'Academic Affairs Department at UCSB'
+company: 'UCSB Academic Affairs Department'
 location: 'Santa Barbara, CA'
 range: 'October - June 2023'
 url: 'https://evc.ucsb.edu/index.php/'
