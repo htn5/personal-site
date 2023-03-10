@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Happy Cows'
-cover: './course-card.png'
+cover: './happy-cows.png'
 github: 'https://github.com/ucsb-cs156-s22/team01-s22-4pm-4'
 external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
