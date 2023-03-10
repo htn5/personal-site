@@ -142,11 +142,11 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I have had the privilege of working at{' '}
-              <a href="https://hasc.hfa.ucsb.edu/">my unviversity's IT department</a> . I also am
-              looking forward to working with a{' '}
-              <a href="https://www.bbh.com/us/en.html">prestigious finance firm</a>
-              this summer. My main focus these days is _____.
+              Fast-forward to today, and I currently have the privilege of working at{' '}
+              <a href="https://hasc.hfa.ucsb.edu/">my university's IT department</a> and am looking
+              forward to working with a{' '}
+              <a href="https://www.bbh.com/us/en.html">prestigious finance firm</a> this summer. My
+              main focus these days is _____.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

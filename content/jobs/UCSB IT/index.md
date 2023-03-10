@@ -1,5 +1,5 @@
 ---
-date: '2023-03-09'
+date: '1'
 title: 'IT Assistant'
 company: 'UC Santa Barbara'
 location: 'Santa Barbara, CA'

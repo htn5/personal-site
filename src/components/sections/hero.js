@@ -65,12 +65,12 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am an aspiring software engineer specializing in ___.
+        I am an aspiring software engineer specializing in ___.{' '}
         {/* building (and occasionally designing) exceptional digital experiences. */}
-        Currently, I am a junior at at{' '}
+        Currently, I am a junior at{' '}
         <a href="https://www.ucsb.edu/" target="_blank" rel="noreferrer">
           UC Santa Barbara
-        </a>
+        </a>{' '}
         studying Computer Science.
       </p>
     </>
