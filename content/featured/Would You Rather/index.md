@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Would You Rather?'
-cover: './demo.png'
+cover: './wyr.png'
 github: 'https://github.com/WouldYouRatherApp/WouldYouRatherApp'
 tech:
   - Swift
