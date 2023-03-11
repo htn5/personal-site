@@ -5,7 +5,7 @@ cover: './gogaucho.png'
 external: 'https://gogaucho.app/#/'
 tech:
   - Swift
-  - App Store
+  - Xcode
   - UCSB API
 ---
 

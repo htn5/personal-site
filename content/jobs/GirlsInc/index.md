@@ -3,7 +3,7 @@ date: '1'
 title: 'Volunteer'
 company: 'Girls Inc.'
 location: 'Santa Barbara, CA'
-range: 'September - November 2023'
+range: 'September - November 2022'
 url: 'https://girlsincsb.org/'
 ---
 
