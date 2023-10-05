@@ -135,21 +135,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Heather and I enjoy creating applications with my friends for others
-              to use. How I found my interest in coding: Lorem ipsum dolor sit amet, consectetur
-              adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitat
+              Hello! My name is Heather and I enjoy creating applications with my friends for the
+              benefit of others. How I found my interest in coding: Lorem ipsum dolor sit amet,
+              consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat
             </p>
 
             <p>
               Fast-forward to today, and I currently have the privilege of working at{' '}
               <a href="https://hasc.hfa.ucsb.edu/">my university's IT department</a> and am looking
               forward to working with a{' '}
-              <a href="https://www.bbh.com/us/en.html">prestigious finance firm</a> this summer. My
-              main focus these days is _____.
+              <a href="https://www.bbh.com/us/en.html">prestigious finance firm</a> after I
+              graduate. My main focus these days is Machine Learning and Web Dev.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">
