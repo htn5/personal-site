@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '3'
 title: 'Software Intern'
 company: 'Brown Brothers Harriman'
 location: 'New York, NY'
